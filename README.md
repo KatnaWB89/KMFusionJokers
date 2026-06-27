@@ -1,2 +1,4 @@
-# Lemoncello collection (unfinished yet)
-i just want to add a little bit of an idea to balatro joker.
+# Katna & Lemoncello collection in Fusion Jokers (unfinished yet)
+Requires Fusion Jokers mod (https://github.com/wingedcatgirl/Fusion-Jokers) and my NEOCORE Fusion Joker (https://github.com/KatnaWB89/Neo-Fusion-lib)
+
+i just want to add a my idea in Fusion joker balatro

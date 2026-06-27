@@ -1,5 +1,6 @@
 -- KM Fusion Jokers
--- An add-on for the "Fusion Jokers" mod. Adds the Speedrun fusion.
+-- Fusion jokers for the "Fusion Jokers" engine. The fusion UI/system lives in
+-- the "NeoCore Fusion" library (a dependency).
 -- (Manifest lives in KMFusionJokers.json)
 
 KMFusionJokers = KMFusionJokers or {}
@@ -11,3 +12,6 @@ if not (FusionJokers and FusionJokers.fusions and FusionJokers.fusions.register_
 end
 
 SMODS.load_file('jokers/J_speedrun.lua')()
+SMODS.load_file('jokers/J_el_dorado.lua')()
+SMODS.load_file('jokers/J_treasure_treasury.lua')()
+SMODS.load_file('jokers/J_prodigy.lua')()

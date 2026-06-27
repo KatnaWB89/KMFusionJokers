@@ -3,15 +3,16 @@
 	"name": "KM Fusion Jokers",
 	"display_name": "KM Fusion Jokers",
 	"author": ["Katna", "Lemon"],
-	"description": "Adds the Speedrun fusion joker (Runner + Shortcut). Requires Fusion Jokers.",
+	"description": "Fusion jokers (Speedrun, El Dorado). Requires Fusion Jokers and NeoCore Fusion.",
 	"prefix": "kmfuse",
 	"main_file": "KMFusionJokers.lua",
 	"priority": 1,
 	"badge_colour": "B26CBB",
 	"badge_text_colour": "FFFFFF",
-	"version": "0.1.2",
+	"version": "0.2.0",
 	"dependencies": [
 		"Steamodded (>=1.0.0~BETA-0827a)",
-		"FusionJokers"
+		"FusionJokers",
+		"NeoCoreFusion"
 	]
 }
